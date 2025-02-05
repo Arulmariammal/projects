@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        
+    </head>
+    <body bgcolor="black" style="color:white">
+        <center>
+            <h1>UPCOMMING EVENTS 📅</h1>
+            <P>Don't miss the chance!!</P>
+        </center>
+        <hr>
+        <p>According to a recent survey by the Content Marketing Institute, 88% of marketers in North America use some form of content marketing to promote a product or service. Out of those marketers, 76% of respondents say that they plan to produce more content this year than in previous years. That means it’s time to hop on the event content creation train!
+        </p>
+        <center>
+        <img src="https://marketplace.canva.com/EAFx4Rac8VM/1/0/1600w/canva-green-abstract-welcome-to-my-channel-video-ZYCpyKWddmE.jpg" width="500">
+        <hr>
+        <h1>Photo Gallery</h1>
+        <h3>Free Entry | Free Food | Pets are not allowed</h3>
+        <p>
+            This may be good news for you. In fact, this may be very good news. Event professionals who implement a content marketing strategy will have a true first-mover advantage compared to those who are unwilling to try something different and experiment with new marketing techniques.
+        </p>
+        <img src="https://rrpicks.com/wp-content/uploads/2024/01/Fashion-Sale-Brochure-Template2-min.jpg" width ="600">
+        <h1>
+            <a href="https://myntra.com">Fashion Store</a>
+        </h1>
+        <h3>Free Entry | Free Food | Pets are not allowed</h3>
+        <p>
+            This may be good news for you. In fact, this may be very good news. Event professionals who implement a content marketing strategy will have a true first-mover advantage compared to those who are unwilling to try something different and experiment with new marketing techniques.
+        </p>
+        </center>
+        <hr>
+        <center>
+            <h1>Contact</h1>
+        <h2>9576438976 | abcd@gmail.com</h2>
+        <p>9th street Avenue Park, Trichy, 678990</p>
+        </center>
+
+    </body>
+</html>
