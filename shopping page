@@ -4,7 +4,7 @@
         <title>Events</title>
         
     </head>
-    <body bgcolor="black" style="color:white">
+    <body bgcolor="#045F5F" style="color:white">
         <center>
             <h1>UPCOMMING EVENTS 📅</h1>
             <P>Don't miss the chance!!</P>
@@ -22,7 +22,7 @@
         </p>
         <img src="https://rrpicks.com/wp-content/uploads/2024/01/Fashion-Sale-Brochure-Template2-min.jpg" width ="600">
         <h1>
-            <a href="https://myntra.com">Fashion Store</a>
+            <a style="color:black" href="https://myntra.com">Fashion Store</a>
         </h1>
         <h3>Free Entry | Free Food | Pets are not allowed</h3>
         <p>
